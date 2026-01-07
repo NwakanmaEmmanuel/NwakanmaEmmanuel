@@ -1,15 +1,28 @@
 ## Hi there, I'm Nwakanma Emmanuel 👋  
-### Frontend Developer
+### Frontend Developer | React | Mathematics Student | AI Enthusiast
 
-I build modern, responsive, and user-friendly web applications with a strong focus on clean UI and great user experience.
+
+I am Currently studying Mathematics, with a strong foundation in logical reasoning and problem-solving that enhances my approach to frontend development and AI-related learning.
+s.
 
 ---
 
-### 🚀 My Tech Stack 🚀
+### 🚀 Core Tech Stack 🚀
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
 </p>
+
+---
+
+### 🧠 Additional Skills & Interests 🧠
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="48" />
+</p>
+
+> Python & Jupyter used for data exploration, automation, AI/ML learning, and technical experimentation.
 
 ---
 
@@ -40,4 +53,5 @@ I build modern, responsive, and user-friendly web applications with a strong foc
 
 ---
 
-⭐ *Open to frontend roles, internships, and collaborations*
+⭐ *Open to frontend roles, internships, and collaborations*  
+🤖 *Interested in AI-powered products and intelligent user experiences*
