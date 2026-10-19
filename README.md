@@ -1,57 +1,61 @@
-## Hi there, I'm Nwakanma Emmanuel 👋  
-### Frontend Developer | React | Mathematics Student | AI Enthusiast
+# Emmanuel Nwakanma
+### Software Engineer | Mathematics Student | Frontend and React Developer
 
 
-I am Currently studying Mathematics, with a strong foundation in logical reasoning and problem-solving that enhances my approach to frontend development and AI-related learning.
-s.
+**AI-powered web apps, robust backend APIs, full-stack product development**
 
----
+## 🚀 What I Do Best
 
-### 🚀 Core Tech Stack 🚀
+I build web products that put useful AI and solid backend engineering behind a clean interface.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
-</p>
+- Integrating LLM APIs (Claude, Gemini) into real product flows
+- Building voice-assistant features and conversational interfaces
+- Designing REST APIs with FastAPI and Node.js on PostgreSQL
 
----
+## 🛠️ Backend & API Architecture
 
-### 🧠 Additional Skills & Interests 🧠
+- Build APIs with **FastAPI**, **Node.js** and **TypeScript**, with typed models and validated inputs.
+- Design relational schemas in **PostgreSQL** and manage changes with **SQLAlchemy** and **Alembic** migrations.
+- Use **Supabase** for auth and data when speed matters.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="48" />
-</p>
+## 🎤 AI, Voice & Conversational Interfaces
 
-> Python & Jupyter used for data exploration, automation, AI/ML learning, and technical experimentation.
+- Built the FinIntel voice assistant and a TrustScore engine inside **OPayPulse**.
+- Prototyped an InsuranceTech claims platform with the **Claude API** .
+- Built a Chrome extension powered by the **Gemini API**.
 
----
+## 🎨 Frontend Engineering
 
-### 🛠️ Tools & Platforms 🛠️
+- Build responsive, accessible interfaces with **React**, **Next.js**, **TypeScript** and **Tailwind CSS**.
+- Ship installable **PWAs** and manage state with Context API.
+- Pair clean UX with AI and API backends so complex features feel simple to use.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify" />
-</p>
+## 🔐 Security & Reliability
 
----
+- Built **WhisperBox**, an end-to-end encrypted messaging app using the Web Crypto API and IndexedDB.
+- Test with **Vitest** and **Playwright** (unit and end-to-end) before shipping.
 
-### 🌐 Portfolio
+## 📦 Project Highlights
 
-🔗 https://emmanuel-nwakanma-portfolio.vercel.app
+- **VeriTask**: milestone-based escrow and AI verification for campus gig hiring.
+- **Invoice Management App**: React and Tailwind with full CRUD, dark mode and Context API.
+- **Habit Tracker PWA**: Next.js with a full Vitest and Playwright test suite.
+- **Kobo Compass** (Hackaholics 7.0) and **Coin Cache** (TiT 6.0): fintech hackathon builds.
 
----
+## 🔧 Tech Stack
 
-### 📫 Connect With Me
+- **Languages & Frameworks:** TypeScript, JavaScript, Python, Node.js, React, Next.js, FastAPI
+- **AI Tools:** Claude API, Gemini API
+- **Databases & Data:** PostgreSQL, Supabase, IndexedDB
+- **Styling:** Tailwind CSS, responsive design
+- **Testing & Tools:** Vitest, Playwright, Git and GitHub, Jupyter
 
-<p align="left">
-  <a href="https://github.com/NwakanmaEmmanuel">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+## 🎓 Background
 
----
+Pure Mathematics student at the University of Lagos, enrolled in the HatchDev x Moniepoint full-stack programme at NITHUB Unilag. My maths background keeps me strong on logic, data and problem-solving, and it's my route into machine learning.
 
-⭐ *Open to frontend roles, internships, and collaborations*  
-🤖 *Interested in AI-powered products and intelligent user experiences*
+## 🤝 Let's Build Together
+
+I'm open to junior full-stack and web development roles, internships and collaborations, in Lagos or remote.
+
+🌐 [Portfolio](https://emmanuel-nwakanma-portfolio.vercel.app) | 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-nwakanma-a21667378/) | 🐦 [X](https://x.com/theKubricx) | ✉️ nwakanmaemmanuel60@gmail.com
