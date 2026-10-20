@@ -58,4 +58,4 @@ Pure Mathematics student at the University of Lagos, enrolled in the HatchDev x 
 
 I'm open to junior full-stack and web development roles, internships and collaborations, in Lagos or remote.
 
-🌐 [Portfolio](https://emmanuel-nwakanma-portfolio.vercel.app) | 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-nwakanma-a21667378/) | 🐦 [X](https://x.com/theKubricx) | ✉️ nwakanmaemmanuel60@gmail.com
+🌐 [Portfolio](https://emmanueldev2.vercel.app) | 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-nwakanma-a21667378/) | 🐦 [X](https://x.com/theKubricx) | ✉️ nwakanmaemmanuel60@gmail.com
